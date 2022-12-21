@@ -12,7 +12,7 @@
 ---
 
 ### :woman_technologist: About Me :
-💳 I’m currently mastering **Swift.** ![image](https://user-images.githubusercontent.com/121167654/208907677-5933667b-c8bc-4c64-9344-ab32b8cffd9c.png)
+ <div><img src="https://user-images.githubusercontent.com/121167654/208907677-5933667b-c8bc-4c64-9344-ab32b8cffd9c.png" width="20"/></div> I’m currently mastering **Swift.** 
 
 
   
