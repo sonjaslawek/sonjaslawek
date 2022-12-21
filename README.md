@@ -5,7 +5,9 @@
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=sonjaslawek&style=flat-square&color=blue" alt=""/></div>
 
-<div align="center"> ### Hi there, I'm Sonja 👋🏼😄 </div>
+<div align="center"> 
+  
+### Hi there, I'm Sonja 👋🏼😄 </div>
   
 
   
