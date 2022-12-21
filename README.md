@@ -2,13 +2,15 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
 </div>
 
+<div align="center">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
+</div>
 
 ### Hi there 👋
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonjaslawek" />
-
+</div>
 
 <!--
 **sonjaslawek/sonjaslawek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
