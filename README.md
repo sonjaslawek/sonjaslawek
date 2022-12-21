@@ -5,7 +5,10 @@
 <div align="center">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
+<div align="center">
 
+<a href="https://www.linkedin.com/in/sonja-s%C5%82awek"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
 ### Hi there 👋
 
 <!--
