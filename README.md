@@ -2,12 +2,9 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="300"/>
 </div>
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/sonja-sławek/"
 
-### Hi there 👋
+
+###                                                                       Hi there 👋
 
 <!--
 **sonjaslawek/sonjaslawek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
