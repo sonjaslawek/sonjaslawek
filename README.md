@@ -12,10 +12,8 @@
 ---
 
 ### :woman_technologist: About Me :
-<img src="https://user-images.githubusercontent.com/121167654/208907677-5933667b-c8bc-4c64-9344-ab32b8cffd9c.png" width="18"/>  I’m currently mastering **Swift.** 
+<img src="https://user-images.githubusercontent.com/121167654/208907677-5933667b-c8bc-4c64-9344-ab32b8cffd9c.png" width="18"/>  I finished course p>"iOS 12 Swift 4.2 -<a target="_blank" href="https://www.udemy.com/course/ios-12-app-development-bootcamp/">The Complete iOS App Development Bootcamp"</a></p> by Angela Yu on Udemy platform. Actually I develop my skills by creating some projects which you can see on my GitHub Repo! 😃
 
-
-  
 
   
 
