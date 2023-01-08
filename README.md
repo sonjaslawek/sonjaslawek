@@ -6,12 +6,10 @@
 
 <div align="center"> 
   
-  <!--
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonjaslawek"/>
-</div>
--->
-  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjaslawek&theme=tokyonight)
+ <!--
+ ![Sonja's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonjaslawek&show_icons=true&theme=transparent)
+ --> 
 ## Hi there, I'm Sonja 👋🏼😄 </div>
 
 
