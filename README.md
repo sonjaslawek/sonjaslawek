@@ -5,9 +5,9 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=sonjaslawek&style=flat-square&color=blue" alt=""/></div>
 
 <div align="center"> 
-  
+  <!--
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjaslawek&theme=tokyonight)
- <!--
+
  ![Sonja's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonjaslawek&show_icons=true&theme=transparent)
  --> 
 ## Hi there, I'm Sonja 👋🏼😄 </div>
